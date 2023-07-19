@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome. I am a PhD candidate in the [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Institute of Technology. I am fortunate to be guided in my pursuits by [Professor Koki Ho](https://ae.gatech.edu/directory/person/koki-ho). 
 
-My research interests lie in the intersection of **optimal tasking**, **machine learning**, and **computer vision**. Solving complex decision making problems, such as the ones involving perception, often neccesiates the aid of machine learning. I have been studying modeling analysis and robust ML integration for safety critical systems, including **planetary landers**, **spaceborne sensors**, and **asteroid investigation robots**. For more information, please see my [Research](/research_tmp/) page or review [my CV](/cv_tmp).
+My research interests lie in the intersection of **Guidance, Navigation and Control**, **tasking and scheduling**, **machine learning**, and **computer vision**. Solving complex decision making problems, such as the ones involving perception, often neccesiates the aid of machine learning. I have been investigating modeling methods and robust ML integration for safety critical systems, including **planetary landers**, **spaceborne sensors**, and **asteroid investigation robots**. For more information, please see my [Research](/research_tmp/) page or review [my CV](/cv_tmp).
 
 ## Contact
 Please feel free to connect with me at ktomita3{at}gatech.edu
