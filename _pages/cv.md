@@ -9,51 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+EDUCATION
+==
+* Georgia Institute of Technology, US	August 2019 – May 2024
+  * Ph.D. in Aerospace Engineering	GPA: 3.8/4.0
+  * Thesis: Autonomous Hazard Detection and Avoidance	Advisor: Prof. Koki Ho
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* The University of Tokyo, Japan	April 2018 – December 2019
+  * Master of Aerospace Engineering	GPA: 4.0/4.0
+  * ADCS Engineer of EQUULEUS (NASA Artemis-1’s 6U piggyback satellite)	
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Kyushu University, Japan	April 2014 – March 2018
+  * Bachelor of Aerospace Engineering	GPA: 3.8/4.0
+  * Thesis: Network Analysis of Space Debris	
+	
