@@ -11,7 +11,7 @@ redirect_from:
 Welcome! I am a PhD candidate in the [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Institute of Technology. I am seeking a post-graduate position starting Fall 2024. 
 
 My research interests lie primarily in solving planning problems under uncertainty, enabling robots or operators to make safe decisions with sufficient confidence. My research leverages tools and techniques from optimization, optimal control, machine learning, statistics, and dynamical systems.
-For more information, please see [my CV](/https://kentotomita.github.io/_files/cv_kento.pdf).
+For more information, please see [my CV](https://kentotomita.github.io/_files/cv_kento.pdf).
 
 ## Contact
 Please feel free to connect with me at ktomita3{at}gatech.edu
