@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome. I am a PhD candidate in the [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Institute of Technology. I am seeking a post-graduate position starting Fall 2024. 
+Welcome! I am a PhD candidate in the [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Institute of Technology. I am seeking a post-graduate position starting Fall 2024. 
 
-My research expertise includes optimal tasking/scheduling, motion planning under uncertainty, and perception-aware GN&C for space systems. Solving complex decision making problems, such as the ones involving perception, often neccesiates the aid of machine learning. I have been studying modeling analysis and robust ML integration for safety critical systems, including planetary landers, spaceborne sensors, and asteroid investigation robots.
-<!--For more information, please see my [Research](/research_tmp/) page or review [my CV](/cv_tmp).-->
+My research interests lie primarily in solving planning problems under uncertainty, enabling robots or operators to make safe decisions with sufficient confidence. My research leverages tools and techniques from optimization, optimal control, machine learning, statistics, and dynamical systems.
+For more information, please see [my CV](/https://kentotomita.github.io/_files/cv_kento.pdf).
 
 ## Contact
 Please feel free to connect with me at ktomita3{at}gatech.edu
