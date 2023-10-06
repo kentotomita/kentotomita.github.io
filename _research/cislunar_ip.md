@@ -56,7 +56,7 @@ Thank you for your engagement with our research endeavors.
 *For those deeply invested in the subject, the complete research paper offers a comprehensive understanding of our methodologies and findings.*
 
 <p align="center">
-  <img src="../images/cislunar-ip.png" width="550" title="galt_manifold">
+  <img src="../images/cislunar-ip.png" width="550" title="uncertainty-deformation">
 </p>
 
 
