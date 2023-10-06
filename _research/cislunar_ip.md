@@ -15,10 +15,6 @@ collection: project
 
 ## **Predictive Sensor Tasking in Cislunar Space: A Research Overview**
 
-Greetings to the academic and research community,
-
-I am pleased to present a summary of our recent exploration into the domain of predictive sensor tasking for cislunar space situational awareness. As we venture further into the realms of space exploration and research, enhancing our predictive capabilities becomes ever more critical. Here, I provide a concise overview of our findings and methodologies.
-
 ### **Research Motivation**
 In cislunar space, tracking remains a formidable challenge. Stable demands, such as catalog maintenance for recognized objects and pre-planned missions, are juxtaposed with potentially unexpected demands. Situations like an uncooperative spacecraft releasing a subsidiary or sudden detection of unanticipated translunar objects can create unforeseen tracking needs.
 
@@ -48,8 +44,6 @@ Our conclusions were further buttressed by extensive numerical analysis, undersc
 By adeptly leveraging the Extended Information Filter, our research delineates a path to a superior sensor tasking algorithm for cislunar space. Furthermore, it illuminates the intricate dynamics of cislunar space and how they can be harnessed to optimize state uncertainty predictions.
 
 For a deeper and more detailed exploration, I invite readers to peruse the full research paper. Queries and discussions on the topic are most welcome.
-
-Thank you for your engagement with our research endeavors. 
 
 ---
 
