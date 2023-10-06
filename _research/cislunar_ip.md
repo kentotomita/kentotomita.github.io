@@ -11,6 +11,7 @@ toc_icon: "cog"
 toc_sticky: true
 collection: project
 ---
+{% include base_path %}
 
 ## **Predictive Sensor Tasking in Cislunar Space: A Research Overview**
 
