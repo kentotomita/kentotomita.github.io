@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Research Projects"
+title: "Research"
 permalink: /research/
 author_profile: true
 excerpt: "List of research projects"
