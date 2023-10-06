@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Open a PDF version of Kento Tomita's CV (Updated Sep. 28, 2023).](https://kentotomita.github.io/files/cv_kento.pdf).
+
+
 EDUCATION
 ==
 * Georgia Institute of Technology, US	August 2019 – May 2024
