@@ -15,6 +15,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+{% include base_path %}
 
 {% include feature_row id="intro" type="center" %}
 
