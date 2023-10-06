@@ -11,15 +11,7 @@ feature_row:
     alt: "Skyplot"
     title: "Facility Location Problem for Space-Based Assets"
     excerpt: '**Abstract:** Facility Location Problem for Space-Based Assets. '
-    url: /research/flp_osam/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-    
-  - image_path: '../images/galt_manifold.png'
-    alt: "Skyplot"
-    title: "Gravity-Assist Low-Thrust Trajectory Design"
-    excerpt: '**Abstract:** Exploration of low-thrust trajectory design via direct-transcription. '
-    url: /research/galt/
+    url: /research/cislunar_ip/
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
