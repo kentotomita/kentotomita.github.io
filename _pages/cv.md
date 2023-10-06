@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Open a PDF version of Kento Tomita's CV (Updated Sep. 28, 2023).](https://kentotomita.github.io/files/cv_kento.pdf).
+[Open a PDF version of Kento Tomita's CV (Updated Sep. 28, 2023).](https://kentotomita.github.io/files/cv_kento.pdf)
 
