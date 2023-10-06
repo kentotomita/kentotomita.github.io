@@ -1,6 +1,6 @@
 ---
 title: "Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"
-excerpt: "Gravity-Assist Low-Thrust Trajectory Design"
+excerpt: ""Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"
 image: 
   url: '../images/cislunar-ip.png'
   width: '291'
