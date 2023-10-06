@@ -7,10 +7,10 @@ excerpt: "List of research projects"
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: '../images/flp_allocation_D1m2000.png'
+  - image_path: '../images/cislunar-ip.png'
     alt: "Skyplot"
-    title: "Facility Location Problem for Space-Based Assets"
-    excerpt: '**Abstract:** Facility Location Problem for Space-Based Assets. '
+    title: "Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"
+    excerpt: '**Abstract:** Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness. '
     url: /research/cislunar_ip/
     btn_label: "Read More"
     btn_class: "btn--primary"
