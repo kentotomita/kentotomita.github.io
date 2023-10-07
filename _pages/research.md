@@ -10,7 +10,7 @@ feature_row:
   - image_path: '../images/cislunar-ip.png'
     alt: "Skyplot"
     title: "Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"
-    excerpt: '**Abstract:** This paper delves into the predictive sensor tasking algorithm, leveraging the Extended Information Filter (EIF). '
+    excerpt: ''
     url: /research/cislunar_ip/
     btn_label: "Read More"
     btn_class: "btn--primary"

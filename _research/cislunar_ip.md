@@ -49,10 +49,6 @@ For a deeper and more detailed exploration, I invite readers to peruse the full 
 
 *For those deeply invested in the subject, the complete research paper offers a comprehensive understanding of our methodologies and findings.*
 
-<p align="center">
-  <img src="../images/cislunar-ip.png" width="550" title="uncertainty-deformation">
-</p>
-
 
 #### Related publication:
 - **K. Tomita**, Y. Shimane, and K. Ho, **"Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness,"** AMOS Conference, Maui, Hawaii, September 2023.
