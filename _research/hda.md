@@ -1,14 +1,10 @@
 ---
 title: "Hazard Detection and Avoidance for Autonomous Spacecraft Landing"
-excerpt: ""Hazard Detection and Avoidance for Autonomous Spacecraft Landing"
+excerpt: "Hazard Detection and Avoidance for Autonomous Spacecraft Landing"
 image: 
   url: '../images/ocams_tag-bicnet-nko.gif'
   width: '291'
   height: '392'
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
 collection: project
 ---
 {% include base_path %}

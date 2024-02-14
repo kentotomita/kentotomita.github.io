@@ -1,14 +1,10 @@
 ---
 title: "Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"
-excerpt: ""Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"
+excerpt: "Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"
 image: 
   url: '../images/cislunar-ip.png'
   width: '291'
   height: '392'
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
 collection: project
 ---
 {% include base_path %}
