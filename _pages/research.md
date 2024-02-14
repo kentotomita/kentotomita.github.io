@@ -8,7 +8,7 @@ intro:
   - excerpt: ''
 feature_row:
   - image_path: '../images/ocams_tag-bicnet-nko.gif'
-    alt: "landing"
+    alt: "Skyplot"
     title: "Hazard Detection and Avoidance for Autonomous Spacecraft Landing"
     excerpt: ''<br><br>
 
@@ -17,7 +17,7 @@ feature_row:
     **Related Publication:** Bayesian Deep Learning for Segmentation for Autonomous Safe Planetary Landing, *AIAA JSR*, 2022 [[Paper](https://arc.aiaa.org/doi/full/10.2514/1.A35104)]
     
   - image_path: '../images/cislunar-ip.png'
-    alt: "tasking"
+    alt: "Skyplot"
     title: "Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"
     excerpt: ''<br><br>
 
