@@ -8,15 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in the [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Institute of Technology. I am seeking a post-graduate position starting Summer/Fall 2024. 
+Welcome! I am a PhD candidate in the [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech. 
 
-My research interests lie primarily in solving planning problems under uncertainty, enabling robots or operators to make safe decisions with sufficient confidence. My research leverages tools and techniques from optimization, optimal control, machine learning, statistics, and dynamical systems.
-For more information, please see [my CV](https://kentotomita.github.io/files/cv_kento.pdf).
+My passion is to realize safe autonomy in complicated real world environment, and I am interested in perception-aware planning/GN\&C problems. My recent reserch topics include autonomous spacecraft landing, spacecraft contingency maneuvers, and real-time Bayesian hazard detection. My research leverages tools and techniques from optimal control, computer vision, machine learning, optimization, and dynamical systems. 
 
 ## Contact
-Please feel free to connect with me at ktomita3{at}gatech.edu
+I'm always open to conversations. Reach me at ktomita3{at}gatech.edu
+
+## Community Activities
+- **Conference reviewer**: IEEE CDC, AIAA SciTech, AIAA ASCEND
+- **Journal reviewer**: AIAA JGCD
+- **Seminar**: "Machine Learning based Hazard Detection and Avoidance Algorithms" at NASA
+
+## Awards and Honors
+- **Excellent Reviewer**, AIAA JGCD 2022
+- **Murata Overseas Foundation Scholarship**, 2019
+- **Japan Student Services Organization Scholarship**, 2019
+- **Outstanding Student Award of Japan Society for Aeronautical and Space Sciences**, 2018
+- **Kyushu University President’s Award and Scholarship**, 2015
 
 ## News
+- Jan. 10, 2024: Presented **"Optimal Predictive Guidance for Autonomous Hazard Detection and Avoidance"** at AIAA SciTech 2024 Forum, Orlando, FL
+
 - Sep. 20, 2023: Presented **"Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness"** at 24th AMOS Conference, Maui, HI
 
 - Sep. 14, 2023: Gave virtual seminar talk at NASA on **"Machine Learning based Hazard Detection and Avoidance Algorithms"** 
