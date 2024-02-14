@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a PhD candidate in the [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech. 
 
-My passion is to realize safe autonomy in complicated real world environment, and I am interested in perception-aware planning/GN\&C problems. My recent reserch topics include autonomous spacecraft landing, spacecraft contingency maneuvers, and real-time Bayesian hazard detection. My research leverages tools and techniques from optimal control, computer vision, machine learning, optimization, and dynamical systems. 
+My passion is to realize safe autonomy in complicated real world environment, and I am interested in perception-aware planning/GN&C problems. My recent reserch topics include autonomous spacecraft landing, spacecraft contingency maneuvers, and real-time Bayesian hazard detection. My research leverages tools and techniques from optimal control, computer vision, machine learning, optimization, and dynamical systems. 
 
 ## Contact
 I'm always open to conversations. Reach me at ktomita3{at}gatech.edu
