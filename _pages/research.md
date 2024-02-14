@@ -25,9 +25,6 @@ feature_row:
 
     **Related Publication:** Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness, *AMOS Conference, 2022 [[Paper](https://arxiv.org/abs/2310.04894)]
 
-    url: /research/cislunar_ip/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
