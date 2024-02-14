@@ -7,7 +7,7 @@ excerpt: "Selected research and enginnering projects"
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: '../images/ocams_tag-bicnet-nko.gif'
+  - image_path: '../images/cislunar-ip.png'
     alt: "Skyplot"
     title: "Hazard Detection and Avoidance for Autonomous Spacecraft Landing"
     excerpt: ''<br><br>
