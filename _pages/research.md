@@ -11,12 +11,13 @@ intro:
 feature_row:
   - image_path: '../images/ocams_tag-bicnet-nko.gif'
     alt: "Skyplot"
-    title: "Hazard Detection and Avoidance for Autonomous Spacecraft Landing"
-    excerpt: "Hazard Detection and Avoidance (HD&A) plays a pivotal role in enhancing the flexibility and diversity of mission designs and executions in planetary science and interplanetary development endeavors. HD&A encompasses two principal functionalities (i) hazard detection (HD) and (ii) hazard avoidance guidance, both of which are addressed and enhanced in this research. For the HD algorithm, a novel framework and formulation are introduced, leveraging machine learning and Gaussian random fields for improved efficiency and precision. Regarding hazard avoidance guidance, this research initiates by precisely defining and formulating this emergent challenge, subsequently presenting a set of solution frameworks tailored for this unique perception-aware guidance problem.
+    title: "Autonomous Hazard Detection and Avoidance for Spacecraft Landing"
+    excerpt: "Hazard Detection and Avoidance (HD&A) plays a pivotal role in enhancing the flexibility and diversity of mission designs and executions in planetary science and interplanetary development endeavors. HD&A encompasses two principal functionalities (i) hazard detection (HD) and (ii) hazard avoidance, both of which are addressed and enhanced in this research. For the HD algorithm, a novel framework and formulation are introduced, leveraging machine learning and Gaussian random fields for improved efficiency and precision. Regarding hazard avoidance guidance, this research initiates by precisely defining and formulating this emergent challenge, subsequently presenting a set of solution frameworks tailored for this unique perception-aware guidance problem.
     
     <br><br>
-    
-    **Related Publication:** Bayesian Deep Learning for Segmentation for Autonomous Safe Planetary Landing, *AIAA JSR*, 2022 [[Paper](https://arc.aiaa.org/doi/full/10.2514/1.A35104)]"
+
+    **Related Publication:** (More to come!)<br>
+    Bayesian Deep Learning for Segmentation for Autonomous Safe Planetary Landing, *AIAA JSR*, 2022 [[Paper](https://arc.aiaa.org/doi/full/10.2514/1.A35104)]"
 
   - image_path: '../images/cislunar-ip.png'
     alt: "Skyplot"
