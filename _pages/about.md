@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Kento Tomita"
-excerpt: "Research Scientist at Mitsubishi Electric Research Laboratories (MERL)"
+excerpt: "Research Scientist at MERL"
 author_profile: true
 redirect_from: 
   - /about/
