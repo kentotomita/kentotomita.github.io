@@ -7,16 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Thank you for visiting my web page. Please feel free to reach me at tomita{at}merl.com.
+
 ## About
 - Research Scientist at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/)
-- Ph.D. in Aerospace Engineering (Georgia Tech)
+- Ph.D. in Aerospace Engineering from Georgia Tech
 - Japanese @ Boston, MA
 
 ## Selected Research Domains
 - Autonomous Safe Planetary Landing
 - Spacecraft Guidance, Navigation, and Control
 - Perception and Control Synthesis
-- Multi-Agent Autonomy 
+- Multi-Agent Autonomy
+
+For latest publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=jojWYOoAAAAJ&hl=en).
 
 ## Contact
 tomita{at}merl.com
