@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kento Tomita"
 title_separator          : "-"
 name                     : &name "Kento Tomita"
-description              : &description "Ph.D. Candidate at Georgia Tech"
+description              : &description "Research Scientist at MERL"
 url                      : https://kentotomita.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kentotomita/kentotomita.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kento Tomita"
   avatar           : "profile_1.jpg"
-  bio              : "Ph.D. Candidate at Georgia Tech"
-  location         : "Atlanta, GA"
+  bio              : "Research Scientist at MERL"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jojWYOoAAAAJ&hl=en"
   email            : "ktomita3{at}gatech.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Kento-Tomita"
+  researchgate     : "https://www.researchgate.net/profile/Kento-Tomita"
   uri              :
   bitbucket        :
   codepen          :
