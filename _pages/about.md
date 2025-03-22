@@ -20,11 +20,12 @@ Thank you for stopping by. I’m a research scientist at [MERL](https://www.merl
 - Perception and Control Synthesis
 - Multi-Agent Autonomy
 
-For latest publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=jojWYOoAAAAJ&hl=en).
+For details, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=jojWYOoAAAAJ&hl=en).
 
 ## Contact
 tomita{at}merl.com
 
+<!---
 ## Community Activities
 - **Conference reviewer**: CDC, ICRA, SciTech, ASCEND
 - **Journal reviewer**: JGCD, JSR, Springer Nature
@@ -36,3 +37,4 @@ tomita{at}merl.com
 - **Japan Student Services Organization Scholarship**, 2019
 - **Outstanding Student Award of Japan Society for Aeronautical and Space Sciences**, 2018
 - **Kyushu University President’s Award and Scholarship**, 2015
+-->
